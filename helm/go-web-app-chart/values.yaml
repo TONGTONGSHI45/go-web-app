@@ -8,7 +8,7 @@ image:
   repository: tongtongshi/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10843654624"
+  tag: "10844160613"
 
 imagePullSecrets: []
 nameOverride: ""
